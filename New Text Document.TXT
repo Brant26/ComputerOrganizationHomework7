@@ -1,2 +1,4 @@
 Brant Rieker
 Computer Organization 2020
+Due April 28th
+Homework7
